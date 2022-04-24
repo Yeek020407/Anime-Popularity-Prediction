@@ -31,15 +31,15 @@ In this notebook, we did the data preparation, such as replacing the value for t
 In this notebook, we use the data such as studios, popularity, source, synopsis, and genres to predict the popularity of anime. We used libraries such as TensorFlow, Keras, and one-hot encoding in building our neural network. This system has the features of accepting inputs from the user, such as the Name of Anime, Synopsis, Genres, Studios, Source, and Premiered season and giving out a reasonable popularity score. The highest score of popularity is 7 marks, and the lowest score is 1 mark.
 
 # Reference
-https://www.kaggle.com/datasets/hernan4444/anime-recommendation-database-2020?select=rating_complete.csv
-https://machinelearningmastery.com/how-to-stop-training-deep-neural-networks-at-the-right-time-using-early-stopping/
-https://machinelearningmastery.com/use-word-embedding-layers-deep-learning-keras/
-https://machinelearningmastery.com/keras-functional-api-deep-learning/
-https://www.youtube.com/watch?v=51_mlYmcyJk&list=LL&index=7&t=471s
-https://machinelearningmastery.com/how-to-one-hot-encode-sequence-data-in-python/
-https://stackoverflow.com/questions/5486337/how-to-remove-stop-words-using-nltk-or-python
-https://www.geeksforgeeks.org/python-lemmatization-with-nltk/
-https://pyimagesearch.com/2019/02/04/keras-multiple-inputs-and-mixed-data/
-https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
-https://towardsdatascience.com/using-neural-networks-with-embedding-layers-to-encode-high-cardinality-categorical-variables-c1b872033ba2
-https://towardsdatascience.com/multi-class-text-classification-with-lstm-1590bee1bd17
+- https://www.kaggle.com/datasets/hernan4444/anime-recommendation-database-2020?select=rating_complete.csv
+- https://machinelearningmastery.com/how-to-stop-training-deep-neural-networks-at-the-right-time-using-early-stopping/
+- https://machinelearningmastery.com/use-word-embedding-layers-deep-learning-keras/
+- https://machinelearningmastery.com/keras-functional-api-deep-learning/
+- https://www.youtube.com/watch?v=51_mlYmcyJk&list=LL&index=7&t=471s
+- https://machinelearningmastery.com/how-to-one-hot-encode-sequence-data-in-python/
+- https://stackoverflow.com/questions/5486337/how-to-remove-stop-words-using-nltk-or-python
+- https://www.geeksforgeeks.org/python-lemmatization-with-nltk/
+- https://pyimagesearch.com/2019/02/04/keras-multiple-inputs-and-mixed-data/
+- https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
+- https://towardsdatascience.com/using-neural-networks-with-embedding-layers-to-encode-high-cardinality-categorical-variables-c1b872033ba2
+- https://towardsdatascience.com/multi-class-text-classification-with-lstm-1590bee1bd17
